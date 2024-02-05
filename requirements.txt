@@ -2,6 +2,7 @@ astroid==3.0.2
 blinker==1.4
 cliapp==1.20180812.1
 command-not-found==0.3
+coverage==7.4.1
 cryptography==3.4.8
 dbus-python==1.2.18
 dill==0.3.7
@@ -35,6 +36,7 @@ pylint==3.0.3
 pylint-pytest==1.1.7
 pyparsing==2.4.7
 pytest==7.4.4
+pytest-cov==4.1.0
 pytest-pylint==0.21.0
 python-apt==2.4.0+ubuntu2
 PyYAML==5.4.1
